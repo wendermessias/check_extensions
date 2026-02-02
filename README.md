@@ -1,1 +1,1 @@
-# Verifica_extens-es
+check_extensions versão 1.3
